@@ -1,0 +1,2 @@
+FROM registry.k8s.io/kube-scheduler:v1.31.0
+MAINTAINER zhuqq
